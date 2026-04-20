@@ -1,16 +1,13 @@
-# flutter_food_log_app
+## UI Ouly HomeUi, SigninUi, SignupUi
 
-A new Flutter project.
+<img width="250" src="https://github.com/user-attachments/assets/b92a4e17-0360-4d49-a46e-b0f8ea62adb1" 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" src="https://github.com/user-attachments/assets/2f643eb1-4b21-4917-98e2-2e9d70dbdf31" />
+<br /><br /><br />
+<img width="250" src="https://github.com/user-attachments/assets/2d4e3466-799b-4622-a0b3-6b502127859d" src="https://github.com/user-attachments/assets/c381144a-82ad-4bea-b229-d0252136fadc" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="250" src="https://github.com/user-attachments/assets/c381144a-82ad-4bea-b229-d0252136fadc" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
